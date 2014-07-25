@@ -1,0 +1,18 @@
+# Microsoft Developer Studio Generated Dependency File, included by SimpleBrowser.mak
+
+.\SimpleBrowser.cpp : \
+	".\dlgtxtctrl.h"\
+	".\tcpclient.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\TCPClient.cpp : \
+	".\dlgtxtctrl.h"\
+	".\tcpclient.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\SimpleBrowser.rc : \
+	".\SimpleBrowser.ICO"\
+	".\small.ico"\
+	
